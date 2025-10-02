@@ -8,7 +8,7 @@ config = {
 	enable_tab_bar = false,
 	window_close_confirmation = "NeverPrompt",
 	window_decorations = "RESIZE",
-	window_padding = { left = 3, right = 3, top = 2, bottom = 0 },
+	window_padding = { left = 3, right = 3, top = 1, bottom = 0 },
 	hide_tab_bar_if_only_one_tab = true,
 	initial_cols = 120,
 	initial_rows = 30,
