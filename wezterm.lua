@@ -13,6 +13,7 @@ config = {
 	initial_cols = 120,
 	initial_rows = 30,
 
+
 	-- Tab bar style
 	colors = {
 		tab_bar = {
