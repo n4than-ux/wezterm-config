@@ -13,6 +13,7 @@ config = {
 	initial_cols = 120,
 	initial_rows = 30,
 
+   max_fps = 144,
 
 	-- Tab bar style
 	colors = {
@@ -45,7 +46,7 @@ config = {
 	font_size = 11,
 	line_height = 1.1,
 	color_scheme = "Gruvbox Dark", -- built-in theme
-	window_background_opacity = 0.75, -- transparency
+	window_background_opacity = 0.8, -- transparency
 	text_background_opacity = 1,
 	default_cursor_style = "BlinkingUnderline",
 	win32_system_backdrop = "Acrylic",
