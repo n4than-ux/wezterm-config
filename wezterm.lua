@@ -8,7 +8,7 @@ config = {
 	enable_tab_bar = false,
 	window_close_confirmation = "NeverPrompt",
 	window_decorations = "RESIZE",
-	window_padding = { left = 3, right = 3, top = 1, bottom = 0 },
+	window_padding = { left = 3, right = 3, top = 5, bottom = 0 },
 	hide_tab_bar_if_only_one_tab = true,
 	initial_cols = 120,
 	initial_rows = 30,
@@ -42,7 +42,7 @@ config = {
 	scrollback_lines = 5000,
 
 	-- appearance
-	font = wezterm.font("JetBrainsMono Nerd Font Mono", { weight = "Medium" }),
+	font = wezterm.font("0xProto Nerd Font Mono", { weight = "Regular" }),
 	font_size = 11,
 	line_height = 1.1,
 	color_scheme = "Gruvbox Dark", -- built-in theme
