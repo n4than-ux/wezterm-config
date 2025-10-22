@@ -43,7 +43,7 @@ config = {
 
 	-- appearance
 	font = wezterm.font("0xProto Nerd Font Mono", { weight = "Regular" }),
-	font_size = 11,
+	font_size = 12,
 	line_height = 1.1,
 	color_scheme = "Gruvbox Dark", -- built-in theme
 	window_background_opacity = 0.8, -- transparency
